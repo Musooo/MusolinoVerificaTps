@@ -31,16 +31,16 @@
 
 # Codice che gira {#codice-che-gira}
 
-![][image1]
+![image1](ima3.png)
 
 # Risultato richiesta Get lato server {#risultato-richiesta-get-lato-server}
 
-![][image2]  
+![image2](ima2.png) 
 (vediamo che tra le due richieste 404 c’è la 200 della nostra get, la 404 sopra è stata ottenuta perché ho provato a raggiungere l’endpoint user/1 che non esiste)
 
 # Risultato richiesta Get lato client {#risultato-richiesta-get-lato-client}
 
-![][image3]
+![image3](ima1.png)
 
 # Commento codice {#commento-codice}
 
