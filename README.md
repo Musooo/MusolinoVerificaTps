@@ -31,7 +31,7 @@
 
 # Codice che gira {#codice-che-gira}
 
-![image1](ima3.png)
+![image1](ima1.png)
 
 # Risultato richiesta Get lato server {#risultato-richiesta-get-lato-server}
 
@@ -40,7 +40,7 @@
 
 # Risultato richiesta Get lato client {#risultato-richiesta-get-lato-client}
 
-![image3](ima1.png)
+![image3](ima3.png)
 
 # Commento codice {#commento-codice}
 
